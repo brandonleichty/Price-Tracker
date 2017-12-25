@@ -1,0 +1,19 @@
+{
+  "name": "node-price-tracker",
+  "description": "This is a node based price tracker that is designed to update me via text on any product prices I'd like to track. ",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonleichty/Price-Tracker.git"
+  },
+  "author": "Brandon Leichty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonleichty/Price-Tracker/issues"
+  },
+  "homepage": "https://github.com/brandonleichty/Price-Tracker#readme"
+}
