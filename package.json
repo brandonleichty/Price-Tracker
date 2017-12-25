@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandonleichty/Price-Tracker/issues"
   },
-  "homepage": "https://github.com/brandonleichty/Price-Tracker#readme"
+  "homepage": "https://github.com/brandonleichty/Price-Tracker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
