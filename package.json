@@ -19,6 +19,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "dotenv": "^4.0.0",
+    "node-fetch": "^1.7.3",
+    "puppeteer": "^0.13.0",
     "twilio": "^3.11.0"
   }
 }
